@@ -5,5 +5,14 @@
     "localization": true,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "deneme",
+    "modelId": "deneme-1",
+    "localization": true,
+    "type": "JSON",
+    "createdBy": "user",
+    "projectId": "i6bv0ctmh0",
+    "id": "deneme"
   }
 ]
