@@ -11,5 +11,14 @@
     "componentId": "single-line-text",
     "modelId": "deneme",
     "fieldType": "string"
+  },
+  {
+    "name": "deneme",
+    "fieldId": "deneme",
+    "validations": {},
+    "options": {},
+    "componentId": "decimal",
+    "modelId": "deneme",
+    "fieldType": "number"
   }
 ]
