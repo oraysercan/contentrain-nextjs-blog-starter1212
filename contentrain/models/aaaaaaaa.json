@@ -7,5 +7,14 @@
     "componentId": "single-line-text",
     "modelId": "aaaaaaaa",
     "fieldType": "string"
+  },
+  {
+    "name": "aaaaaaaa-1",
+    "fieldId": "aaaaaaaa-1",
+    "modelId": "aaaaaaaa",
+    "componentId": "single-line-text",
+    "validations": {},
+    "options": {},
+    "fieldType": "string"
   }
 ]
