@@ -20,17 +20,5 @@
     "componentId": "decimal",
     "modelId": "deneme",
     "fieldType": "number"
-  },
-  {
-    "name": "Hero-1",
-    "fieldId": "hero-1",
-    "modelId": "deneme",
-    "componentId": "single-line-text",
-    "validations": {},
-    "options": {
-      "title-field": {
-        "value": true
-      }
-    }
   }
 ]
