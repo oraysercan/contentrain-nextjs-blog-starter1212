@@ -5,5 +5,12 @@
     "localization": true,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "aaaaaaaa",
+    "modelId": "aaaaaaaa",
+    "localization": true,
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
